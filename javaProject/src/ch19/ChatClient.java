@@ -36,7 +36,7 @@ public class ChatClient {
 				writer.println(send);//메세지 보내기
 			}
 			
-		}
+		}//소스변경 test
 		//리소스 정리
 		sc.close();
 		writer.close();
